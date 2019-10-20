@@ -2,7 +2,8 @@
 ### Go and Python galore
 
 ## PyPyLeslapy
-Score 299.34 Points
+Score 299.34
+
 Position 636/40
 
 Instituto Tecnológico de Buenos Aires
